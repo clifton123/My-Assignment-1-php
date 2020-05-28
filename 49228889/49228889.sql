@@ -25,7 +25,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Table structure for table `tblcleintinfo`
+-- Table structure for table `tblcleintinfo`  //This is the Structure in Client Table//
 --
 
 CREATE TABLE `tblcleintinfo` (
